@@ -1,0 +1,12 @@
+Nama Kelompok: BubadibaKo
+
+Aplikasi sederhana ini dibuat untuk mengimplementasikan CRUD dengan menggunakan PHP Native.
+Aplikasi ini adalah aplikasi rekam medis, yang berisikan data riwayat sakit pasien yang datang 
+memeriksakan diri di rumah sakit. Di dalam aplikasi ini user/admin dapat memasukan data pasien, 
+mengedit/update, dan mendelete data pasien. Aplikasi ini dapat menampilkan semua data pasien yang diinput.
+
+2440032783 - Bernadete Tanarto
+2440071582 - Gabriel Rolly Davinsi
+2440015322 - Leonardo Caprio
+2440020751 - Theresa Grace Thenia
+2440067622 - Samson Ndruru

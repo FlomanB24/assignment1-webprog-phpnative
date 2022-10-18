@@ -1,0 +1,37 @@
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 26rem;
+  background-color: #e2edff;
+}
+#margin {
+  padding-right: 3rem;
+}
+#margin1 {
+  padding-right: 8.6rem;
+}
+#margin2 {
+  padding-right: 4rem;
+}
+#margin3 {
+  padding-right: 5.5rem;
+}
+#margin4 {
+  padding-right: 0.6rem;
+}
+
+.mg-btn {
+  margin-top: 1rem;
+  margin-right: 61rem;
+}
+
+.datebox {
+  width: 14.5rem;
+}
+.gen {
+  width: 29.7rem;
+}
+
+#mg-gen{
+   margin-left: 3rem;
+   padding-right: 7.8rem;
+}
