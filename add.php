@@ -81,7 +81,7 @@
                             <input type="text" name="diagnosis" id="diagnosis" autocomplete="off" required>
                         </div>
                         <div class="mb-3">
-                            <label for="treatment" class="form-label"  id="margin4">Medical treatment :</label>
+                            <label for="treatment" class="form-label"  id="margin4">Medical Treatment :</label>
                             <input type="text" name="treatment" id="treatment" autocomplete="off" required>
                         </div>
                         <div class="mb-4">
