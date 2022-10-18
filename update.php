@@ -4,9 +4,9 @@
     $server = "localhost";
     $db_username = "root";
     $db_password = "";
-    $postDatabase= "medicalrecords";
+    $database= "medicalrecords";
 
-    $conf=mysqli_connect($server, $db_username, $db_password, $postDatabase);
+    $conf = mysqli_connect($server, $db_username, $db_password, $database);
     if (mysqli_connect_errno()){
         throw new Exception("MySQL connection error: ".mysqli_connect_error());
     }
@@ -41,17 +41,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- Bootstrap CSS -->
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
-
-    <!-- Bootstrap icon -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css" />
-
-    <!-- My CSS -->
     <link rel="stylesheet" href="style.css" />
 
-    <title>Add Book</title>
+    <title>Update Medical Record</title>
 </head>
 <body>
 <section class="jumbotron text-center">

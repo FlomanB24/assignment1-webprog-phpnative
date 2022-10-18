@@ -3,9 +3,9 @@
     $server = "localhost";
     $db_username = "root";
     $db_password = "";
-    $postDatabase= "medicalrecords";
+    $database= "medicalrecords";
 
-    $conf=mysqli_connect($server, $db_username, $db_password, $postDatabase);
+    $conf = mysqli_connect($server, $db_username, $db_password, $database);
 
     if (mysqli_connect_errno())
     {
